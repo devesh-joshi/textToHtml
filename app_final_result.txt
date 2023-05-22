@@ -1,0 +1,4 @@
+IoTCloudAPIGatewayService|eu-west|1.2.0.00134|success
+IoTCloudAssociateManagementService|eu-west|1.2.0.20776|success
+IoTCloudAuthorizationAndDiscoveryService|eu-west|1.2.0.00342|success
+IoTCloudDiscovery|eu-west|1.2.0.00040|success
